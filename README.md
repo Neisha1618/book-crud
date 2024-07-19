@@ -1,2 +1,2 @@
-# Book-Store
+# book-crud
 CRUD book store app
